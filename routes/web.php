@@ -20,4 +20,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/productor/mailing', 'MailingController@index')->name('mailing');
+Route::get('/productor/edit/{id}', 'MailingController@edit')->name('edit');
+Route::post('/productor/update/{id}', 'MailingController@update')->name('update');
+
 

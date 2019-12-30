@@ -184,13 +184,6 @@ return [
             'icon'        => 'fas fa-envelope-square',
             'label_color' => 'success',
         ],
-        [
-            'text'        => 'pages',
-            'url'         => 'admin/pages',
-            'icon'        => 'far fa-fw fa-file',
-            'label'       => 4,
-            'label_color' => 'success',
-        ],
     ],
 
     /*
@@ -230,7 +223,7 @@ return [
     'plugins' => [
         [
             'name' => 'Datatables',
-            'active' => false,
+            'active' => true,
             'files' => [
                 [
                     'type' => 'js',
