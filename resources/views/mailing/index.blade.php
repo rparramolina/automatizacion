@@ -1,6 +1,6 @@
 <div class="row">
     <div class="form-control">
-        <table id="productores" class="table table-striped table-bordered">
+        <table id="productores" class="table table-responsive table-striped table-bordered">
             <thead>
             <tr>
                 <th>Productor</th>

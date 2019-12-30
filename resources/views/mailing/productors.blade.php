@@ -10,7 +10,7 @@
     @include('mailing.index',[
         'productores' => $productores ?? []
     ])
-@stop
+@endsection
 
 @section('css')
     <link rel="stylesheet" href="/css/admin_custom.css">
