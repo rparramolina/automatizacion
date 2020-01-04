@@ -1,6 +1,6 @@
 <div class="row">
-    <div class="form-control">
-        <table id="productores" class="table table-responsive table-striped table-bordered">
+    <div class="card-body">
+        <table id="productores" class="table responsive table-striped table-bordered">
             <thead>
             <tr>
                 <th>Productor</th>
@@ -24,8 +24,6 @@
             </tr>
             </tfoot>
         </table>
-
-
     </div>
 </div>
 
