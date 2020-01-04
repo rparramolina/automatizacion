@@ -4,8 +4,6 @@
     <list default="true" id="993dfef5-8149-42af-80a9-0cd3153ad6cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/mailing/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/mailing/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/mailing/productors.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/mailing/productors.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +164,9 @@
       <option name="presentableId" value="Default" />
       <updated>1575942315632</updated>
       <workItem from="1575942332018" duration="3350000" />
-      <workItem from="1577623998728" duration="10127000" />
+      <workItem from="1577623998728" duration="10264000" />
+      <workItem from="1577680444234" duration="200000" />
+      <workItem from="1577707559896" duration="63000" />
     </task>
     <servers />
   </component>
