@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993dfef5-8149-42af-80a9-0cd3153ad6cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MailingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MailingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboard/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/mailing/productors.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/mailing/productors.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +171,11 @@
       <workItem from="1577623998728" duration="10264000" />
       <workItem from="1577680444234" duration="200000" />
       <workItem from="1577707559896" duration="63000" />
+      <workItem from="1578124955143" duration="126000" />
+      <workItem from="1578125240966" duration="687000" />
+      <workItem from="1578129509758" duration="111000" />
+      <workItem from="1578129682931" duration="170000" />
+      <workItem from="1578158124465" duration="424000" />
     </task>
     <servers />
   </component>
@@ -187,9 +196,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1577664887273">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state x="547" y="234" width="670" height="658" key="search.everywhere.popup" timestamp="1578158421537">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="547" y="234" width="670" height="658" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1578158421537" />
     <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577664887273" />
     <state x="2305" y="259" width="670" height="662" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1577635546077" />
   </component>

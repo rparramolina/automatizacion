@@ -11,13 +11,16 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+#Route::get('/', function () {
+#    return view('login');
+#});
+
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/', 'Auth\\LoginController@showLoginForm');
+#Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'MailingController@index')->name('home');
 
 Route::get('/productor/mailing', 'MailingController@index')->name('mailing');
 Route::get('/productor/edit/{id}', 'MailingController@edit')->name('edit');
